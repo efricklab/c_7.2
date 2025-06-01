@@ -39,8 +39,8 @@ By the end of this lab, you will:
 
 ### **Step 2: Create a New C File**
 
-1. In the **Explorer pane**, click **New File** and name it: `file_io.c`
-2. Paste the following code:
+1. In the **Explorer pane**, and open: `file_io.c`
+2. Verify the following code:
 
 ```c
 #include <stdio.h>
